@@ -1,0 +1,16 @@
+{
+  "name": "dependabot-test",
+  "version": "1.0.0",
+  "description": "Testing GitHub dependabot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "4.0.1",
+    "react": "^18.2.0",
+    "typescript": "^2.0.0"
+  }
+}
